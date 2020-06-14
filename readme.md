@@ -22,7 +22,7 @@
 
 ### 1. _Cloning the project_
 * CD into your working directory
-* Open Terminal and run : git clone https://github.com/ascodelab/dynamic-discoount
+* Open Terminal and run : git clone https://github.com/ascodelab/dynamic-disscount
 * cd Team-Crownstack
 ### 2. Installing Laravel
 * composer install
