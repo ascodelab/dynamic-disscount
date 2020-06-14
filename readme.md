@@ -1,4 +1,4 @@
-# _Crownstack: Disconut Generation on Basis Of Probability_
+# _ Disconut Generation on Basis Of Probability_
 ---
 ## Server Requirements
 
